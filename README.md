@@ -7,7 +7,7 @@ Este projeto tem como objetivo gravar áudio, transcrevê-lo e traduzi-lo usando
 1. Clone este repositório.
    
 ```
-git clone https://github.com/elisaflemer/m8p5
+git clone https://github.com/elisaflemer/m8p7
 ```
 
 2. Instale as dependências
@@ -24,3 +24,6 @@ pip install openai wave sounddevice playsound numpy
 python translator.py
 ```
 ## Demo
+
+[video.webm](https://github.com/elisaflemer/m8p7/assets/99259251/15ac050f-cb79-418b-9cdb-eaae77feaa41)
+
