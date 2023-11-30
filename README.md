@@ -1,4 +1,4 @@
-# Ponderada 7, módulo 8
+# Ponderada 8, módulo 8
 
 Este projeto tem como objetivo gravar áudio, transcrevê-lo e traduzi-lo usando a API do OpenAI. Além disso, ele gera uma resposta de fala com base na tradução. Na lógica principal, o script verifica se o caminho do arquivo de áudio é fornecido como argumento. Se sim, ele realiza a transcrição e tradução diretamente; caso contrário, ele grava um novo arquivo de áudio, realiza a transcrição e tradução. Os resultados, incluindo a tradução, são exibidos no console, e a resposta é reproduzida como áudio.
 
