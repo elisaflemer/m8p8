@@ -2,6 +2,7 @@ import os
 import dotenv
 from openai import OpenAI
 from pathlib import Path
+from pydub import AudioSegment
 from playsound import playsound
 import argparse
 import wave
