@@ -7,7 +7,7 @@ Este projeto tem como objetivo gravar áudio, transcrevê-lo e traduzi-lo usando
 1. Clone este repositório.
    
 ```
-git clone https://github.com/elisaflemer/m8p7
+git clone https://github.com/elisaflemer/m8p8
 ```
 
 2. Instale as dependências
